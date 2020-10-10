@@ -1,4 +1,6 @@
 defmodule BeakerWeb.PageLive do
+  @moduledoc false
+
   use BeakerWeb, :live_view
 
   @impl true
